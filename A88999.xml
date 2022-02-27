@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech spoken by an honorable knight in the House of Commons upon the delivery of the city petition : being Tuesday the 27 of June, 1648.</title>
+            <author>Maynard, John, Sir, 1602-1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88999</idno>
+            <idno type="STC">Wing M1458</idno>
+            <idno type="STC">Thomason E449_36</idno>
+            <idno type="EEBO-CITATION">99864557</idno>
+            <idno type="PROQUEST">99864557</idno>
+            <idno type="VID">161879</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88999)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161879)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E449[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech spoken by an honorable knight in the House of Commons upon the delivery of the city petition : being Tuesday the 27 of June, 1648.</title>
+                  <author>Maynard, John, Sir, 1602-1690.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Sir John Maynard.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161879:1" rendition="simple:additions"/>
+            <p>A SPEECH SPOKEN By an Honorable Knight IN THE Houſe of Commons UPON THE DELIVERY Of the City Petition: Being Tueſday the 27 of <hi>June,</hi> 1648.</p>
+            <p>
+               <hi>London,</hi> Printed in the year 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:161879:2"/>
+            <pb n="3" facs="tcp:161879:2"/>
+            <head>A SPEECH SPOKEN By an Honorable Knight IN THE Houſe of Commons Upon the Delivery of the CITY PETITION <hi>Being Tueſday the</hi> 27 <hi>of June,</hi> 1648.</head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>AS long as I have breath in my body I ſhall ſtand for the honor of this Houſe; I have told you when I came firſt in the Houſe, that <hi>Credit</hi> and <hi>Reputation</hi> was the life or ſoul of the
+<pb n="4" facs="tcp:161879:3"/>Parliament ſhould be diſſolved, then be broken or bank-routed; alas your ſacred publick faith is very much faln to a noble in the pound.</p>
+            <p>It was a great comfort unto me when I was in priſon to obſerve the brave reſolution of my fellow-ſufferers, and other worthy Citizens that came to viſit us; though they were brought very low, and much perſecu<g ref="char:EOLhyphen"/>ted, yet they lifted up their hearts to God and prayed for the proſperity of the Parliament; and ſaid. That <hi>God</hi> was the ſame, the Cauſe was the ſame, and Truth was the ſame; therefore they would never deſert the <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>iament.</p>
+            <p>In the Petition delivered unto you, there you may ſee apparently not only the ſenſe of the City, but of the whole Kingdom; all are weary of the War, and deſire a Perſonal Treaty with his Majeſty, which they conceive will produce a ſafe and well-grounded Peace.</p>
+            <p>And M. Speaker, I muſt do my duty and deal freely with you; both the City and Kingdom groans under a grievous Monopoly, and they think all things are monopolized. As firſt, they declare publickly that the Kings perſon is monopolized to a few hands of a party (I have forgot what you call it) and it is the table talk every where, that the King was juggled in that box or mouſe-trap of the Iſle of Wight.</p>
+            <p>M. Speaker, You have declared the King is the foun<g ref="char:EOLhyphen"/>tain of Honor and Juſtice, and every ſubject hath an equal ſhare in him; and the people begin to murmur and complain, that the King is hardly and cruelly dealt with; and ſo are they, being deprived of him; for you ſee the people had as lieve want the Sun as want a
+<pb n="5" facs="tcp:161879:3"/>King, I, and King <hi>Charles</hi> too. It is high time to re<g ref="char:EOLhyphen"/>ſolve, to content the people, their burdens are intolle<g ref="char:EOLhyphen"/>rable, they are galled ſore; and you know a gall'd horſe will touch dangerouſly.</p>
+            <p>And M. Speaker, I cannot but commend your wiſ<g ref="char:EOLhyphen"/>dom in being tender of the <hi>Kings Perſon,</hi> in examining the buſineſs of <hi>Osborne,</hi> concerning the poyſoning of the <hi>King,</hi> which will give the people great ſatisfacti<g ref="char:EOLhyphen"/>on, for they will hardly believe His Majeſty is living, except the ſee him: But there is an other buſineſs of higher concernment, which I fear your Brethren of <hi>Scotland</hi> will remind us of, which was the principal cauſe of all our latter troubles, namely, the taking a<g ref="char:EOLhyphen"/>way the <hi>King</hi> from <hi>Holdenby,</hi> contrary to the Agree<g ref="char:EOLhyphen"/>ment of both Nations. I am afraid this may be thrown in our diſh another day, and be made one of the grounds of the Scots coming into <hi>England.</hi> I pray you prevent it by anticipating them, and put it in a way to be exa<g ref="char:EOLhyphen"/>mined by a Committee of both Houſes.</p>
+            <p>It is generally ſpoken, That all offices and places of profit are monopolized. I was lately upon the Ex<g ref="char:EOLhyphen"/>change, and there was great complaining of the dead<g ref="char:EOLhyphen"/>neſs of trade, that no <hi>Bullion</hi> came to the Tower, and that within theſe 9 moneths 200000. l. was gone to other Countries, which had come for <hi>England</hi> only for fear of new troubles, the Presbyterians lying under ſuch a Cloud; and that there was little or no Manu<g ref="char:EOLhyphen"/>facture, that thouſands of people, both in <hi>London</hi> and in the Country, muſt ſtrave for want of work, and how that the Sea-men were diſcontented.</p>
+            <p>
+               <pb n="6" facs="tcp:161879:4"/>
+A Gentleman ſtood by, who overhearing them, replyed; That he wondered at their diſcourſe, for that there was never ſuch trading as at preſent; every body was a<g ref="char:EOLhyphen"/>maz'd, and ſaid it was a paradox. The Gentleman an<g ref="char:EOLhyphen"/>ſwered no; I will be judged by your ſelves: Was there ever ſuch trading amongſt the lower and pooreſt of the people and a generation that call themſelves the Saints, why! they have all, ſaid he, and none can get a penny except he be of that faction.</p>
+            <p>M. Speaker, Long ago I gave you warning of theſe Monopoliſts, which I called the Royal Presbyterians, &amp; Royal Independents, Stateſmen, that ſought them<g ref="char:EOLhyphen"/>ſelves, and to ſet up their faction to the deſtruction of the Publique. This Government will not proſper with us; I am confident God will never honor the Grandees, to do the great work he hath in hand by them; therfore, ſeeing you have experience, avoyd theſe Rocks of <hi>Scylla</hi> and <hi>Carybdis,</hi> and ſail between both; Let us lay aſide all faction, and let us unite a<g ref="char:EOLhyphen"/>mongſt our ſelves, and forget, and forgive perſonal a<g ref="char:EOLhyphen"/>nimoſities, and apply our ſelves ſolely to the Pub<g ref="char:EOLhyphen"/>lique.</p>
+            <p>The chief cauſe is removed, for we have no money left to give our ſelves; Therefore let us do righteous things, and win the hearts of the People. God can do his work by few as well as by many. M. Speaker, <hi>loquere ut videam;</hi> give the City ſuch a ſatisfactory anſwer, as they may ſpeedily reap, and ſee the fruits of it: I hope the worthy Gentlemen, whom we have nomina<g ref="char:EOLhyphen"/>ted to draw it up, will do it effectually. M. Speaker I had almoſt forgot one thing, which I beleeve was o<g ref="char:EOLhyphen"/>mitted
+<pb n="7" facs="tcp:161879:4"/>by the Sheriff of <hi>London.</hi> There was lately a Common Hall, and a great expectation of Tumults, but the buſineſs of the day was carryed on in an admi<g ref="char:EOLhyphen"/>rable good order, for there was none but Livery-men there, and they watched one another when the Sheriffs were choſen, which was unanimous. There was a Pa<g ref="char:EOLhyphen"/>per handed to the Lord Major, the chief head was, That they would engage their lives and fortunes, that if the <hi>Parliament</hi> would bring the <hi>King</hi> to treat at <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> that the <hi>King</hi> and <hi>Parliament</hi> might treat freely and ſafely without any Tumults. I thought to ac<g ref="char:EOLhyphen"/>quaint you with this paſſa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and recommend it to the conſideration of your Committee.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
